@@ -1,0 +1,2 @@
+.body{margin:0;padding:0}.App{box-sizing:border-box;margin:0 auto;max-width:500px}.App,.App .list{padding:0}.App .list__item{width:100%;display:flex;justify-content:space-between;border:1px solid #000;border-top:transparent}.App .list__item:first-child{border-top:1px solid #000}.App .list__item:last-child{border-top:transparent}.App .list__item_selected{background-color:#40ff69}.App .list__button,.App .list__name{margin:5px}
+/*# sourceMappingURL=main.a7f04e92.chunk.css.map */
